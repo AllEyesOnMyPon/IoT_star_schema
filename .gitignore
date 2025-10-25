@@ -1,0 +1,7 @@
+# Python/IDE stuff (na przyszłość, po dodaniu skryptów Pythona)
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+.DS_Store
