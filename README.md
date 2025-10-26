@@ -1,4 +1,3 @@
-```
 erDiagram
   SITES {
     string site_id PK
@@ -112,4 +111,3 @@ erDiagram
   SIGNALS_NORM ||--o{ METRICS_1M : aggregates
   ALERT_POLICIES ||--o{ ALERTS   : triggers
   ASSETS ||--o{ ALERTS           : raises
-```
